@@ -6,7 +6,7 @@ bruh
 # bRuH
 ## BRUH
 ---
-[Link to bruh] (https://www.dictionary.com/e/slang/bruh/)
+[Link to bruh](https://www.dictionary.com/e/slang/bruh/)
 > bruhquote
 
 ![Image](http://url/a.png)
@@ -24,3 +24,5 @@ for(int i = 0; i < 4; i++) {
 System.out.println("bruh");
 }
 ```
+
+[Lab Report 1] ()
