@@ -1,28 +1,3 @@
-bruh
-
-*bruh*
-
-**bruh**
-# bRuH
-## BRUH
----
-[Link to bruh](https://www.dictionary.com/e/slang/bruh/)
-> bruhquote
-
-![Image](bruh.jpg)
-* bruh1
-* bruh2
-* bruh3
-1. onebruh
-2. twobruh
-3. threebruh
-
-`System.out.println("bruh")`
-
-```
-for(int i = 0; i < 4; i++) {
-System.out.println("bruh");
-}
-```
+# Lab Reports
 
 [Lab Report 1](https://rhoqan.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
