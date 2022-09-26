@@ -9,7 +9,7 @@ bruh
 [Link to bruh](https://www.dictionary.com/e/slang/bruh/)
 > bruhquote
 
-![Image](http://url/a.png)
+![Image](bruh.jpg)
 * bruh1
 * bruh2
 * bruh3
