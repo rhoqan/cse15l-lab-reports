@@ -1,1 +1,1 @@
-![Image](Week0.PNG)
+![Image](/images/Week0.PNG)

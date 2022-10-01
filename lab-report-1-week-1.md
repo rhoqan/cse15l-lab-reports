@@ -6,7 +6,7 @@
 
 2. Once installed, a window resembling the following should appear when opening VSCode: 
 
-![Image](VSCodewelcome.png)
+![Image](/images/VSCodewelcome.png)
 
 ## **Remotely Connecting**
 *In this section, we will be using the VScode terminal to connect to a remote server using a course-specific account for CSE 15L.*
@@ -30,7 +30,7 @@
 
 4. Once you are logged in, an output similar to the following, except with your own account should appear: 
 
-![Image](image15.png)
+![Image](/images/image15.png)
 
 ## **Trying Some Commands**
 *In this section, we will be experimenting with some commands used to access and modify filesystems*
@@ -46,7 +46,7 @@
 
 3. The image below shows an example of some commands being run:
 
-![Image](image17.png)
+![Image](/images/image17.png)
 
 ## **Moving Files with `scp`**
 *In this section, we will by coping a file over from your computer to the remote server.*
@@ -79,7 +79,7 @@ java WhereAmI
 5. Once that has been confirmed, you can now run `WhereAmI.java` from the remote server with the same commands as in step 2.
 6. The image below shows the process from steps 2 to 5:
 
-![Image](image26.png)
+![Image](/images/image26.png)
 
 ## **Setting an SSH Key**
 *In this section, we will be creating SSH keys that can be used to log in to the remote server without a password.*
@@ -123,6 +123,10 @@ ssh-add $env:USERPROFILE\.ssh\id_ed25519
 6. Finally, you can `scp` your SSH key over with the following command:
     `$ scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys`
     * Use the path for your own SSH key
+
+7. The image below shows an example of accessing the remote server without a password.
+
+![Image](/images/image14.png)
 ## **Optimizing Remote Running**
 *In this section, we will be discussing tips on how to optimize the process of copying files and running them on a remote server*
 
@@ -134,4 +138,4 @@ ssh-add $env:USERPROFILE\.ssh\id_ed25519
 
 The image below shows an example: 
 
-![Image](OptimizationSSH.png)
+![Image](/images/OptimizationSSH.png)
