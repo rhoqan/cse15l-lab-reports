@@ -9,3 +9,5 @@ These are lab reports
 [Lab Report 2](https://rhoqan.github.io/cse15l-lab-reports/lab-report-2-week-3.html) (Week 3)
 
 [Lab Report 3](https://rhoqan.github.io/cse15l-lab-reports/lab-report-3-week-5.html) (Week 5)
+
+[Lab Report 4](https://rhoqan.github.io/cse15l-lab-reports/lab-report-4-week-7.html) (Week 7)
